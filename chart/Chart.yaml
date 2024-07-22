@@ -2,3 +2,4 @@ apiVersion: v2
 description: helm-external-secretie is abstrcting external secrets
 type: application
 version: 0.1.1
+name: helm-external-secretie
