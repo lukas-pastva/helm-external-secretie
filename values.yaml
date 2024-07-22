@@ -1,0 +1,8 @@
+
+externalSecrets: {}
+  # - namespace: "sys-monitoring"
+  #   name: "sys-monitoring"
+  #   secrets:
+  #     - secretKey: "slack_api_url"
+  #       key: "k8s/sys-monitoring/sys-monitoring"
+  #       property: "slack_api_url"
